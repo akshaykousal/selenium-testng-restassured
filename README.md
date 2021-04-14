@@ -1,4 +1,4 @@
-# selenium-testng-restassured
+# selenium-testng-restassured framework
 RestAssured APIs to automate REST Services/REST APIs
 
 # Automation Framework features
@@ -12,8 +12,8 @@ REST APIs validation for -
 - Execute maven test goal or 'mvn clean test' to trigger execution
 
 # Reporting
-Extent Reports
-log4j
+- Extent Reports
+- log4j
 
 # Maven POM file contains dependencies for 
 - RestAssured

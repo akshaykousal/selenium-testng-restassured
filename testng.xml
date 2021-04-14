@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/git/selenium-testng-restassured">
+        <classes>
+            <class name="test.java.Tc01GetAll"/>
+            <class name="test.java.Tc02GetSingle"/>
+            <class name="test.java.Tc03Post"/>
+            <class name="test.java.Tc04Put"/>
+            <class name="test.java.Tc05Delete"/>
+        </classes>
+    </test>
+</suite>
